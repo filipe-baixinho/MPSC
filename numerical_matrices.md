@@ -1,4 +1,6 @@
 # Nummerical Matrices
+Following are the matrices, in nummerical form, underlying the graphical representations presented in the main thesis file. Whatever cells are empty, did not pass the stability filter and correspond to transparent cells in the correspondent plots. These tables were generated with the PrettyTables.jl package.
+
 ## WS Matrices
 ### Pol-ISQ Matrix
 | **Col. 1** | **Col. 2** | **Col. 3** | **Col. 4** | **Col. 5** | **Col. 6** | **Col. 7** | **Col. 8** | **Col. 9** |
