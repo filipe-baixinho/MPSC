@@ -1,0 +1,13 @@
+H* H-^H%
+H* L-H%
+H* L-%
+L+H* H-^H%
+L+H* L-H%
+L+H* L-%
+L* H-^H%
+L* L-%
+L*+H H-%
+L*+H L-H%
+H+L* H-^H%
+H+L* L-%
+H+!H* L-%
